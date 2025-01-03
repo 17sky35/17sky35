@@ -3,7 +3,15 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> PORTFOLIO </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> https://17sky35.github.io/portfolio/</div> 
+    <div style="text-align: left; margin-top: 10px;">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> PORTFOLIO </h2>  
+        <a href="https://17sky35.github.io/portfolio/" target="_blank" 
+           style="display: inline-block; text-decoration: none; background-color: #007acc; color: #fff; 
+                  font-weight: bold; padding: 10px 20px; border-radius: 8px; font-size: 14px;
+                  transition: background-color 0.3s ease; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+            🌐 Visit My Portfolio
+        </a>
+    </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
