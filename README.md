@@ -1,13 +1,13 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ad1a1a,100:050505&height=120&text=JUNG%20YUN%20HO&animation=&fontColor=000000&fontSize=60" />
     </div>
-    <div style="text-align: left; margin-top: 10px;">
+    <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> PORTFOLIO </h2>  
         <a href="https://17sky35.github.io/portfolio/" target="_blank" 
            style="display: inline-block; text-decoration: none; background-color: #007acc; color: #fff; 
                   font-weight: bold; padding: 10px 20px; border-radius: 8px; font-size: 14px;
                   transition: background-color 0.3s ease; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            🌐 Visit My Portfolio
+            🌐 My Portfolio
         </a>
     </div>
     </div>
