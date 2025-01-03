@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ad1a1a,100:050505&height=120&text=JUNG%20YUN%20HO&animation=&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개서 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> PORTFOLIO </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> https://17sky35.github.io/portfolio/</div> 
     </div>
     <div style="text-align: left;">
