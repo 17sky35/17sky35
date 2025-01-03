@@ -1,8 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ad1a1a,100:050505&height=120&text=JUNG%20YUN%20HO&animation=&fontColor=000000&fontSize=60" />
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> PORTFOLIO </h2>  
     <div style="text-align: left; margin-top: 10px;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> PORTFOLIO </h2>  
         <a href="https://17sky35.github.io/portfolio/" target="_blank" 
